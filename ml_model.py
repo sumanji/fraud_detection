@@ -1,0 +1,1 @@
+print('Sample python file for ml model')
